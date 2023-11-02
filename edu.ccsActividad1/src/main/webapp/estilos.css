@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+body{
+	background-color:aqua;
+}
+
+.todo{
+	font-family: verdana;
+	
+}
+
+.texto__derecha {
+	
+	text-align:right;
+	font-size:20px;
+	color:blue;
+}
+.texto__derecha--rojo{
+	color:red;
+}
+
+.texto__centro{
+	text-align: center;
+	color:blue;
+}
+.texto__centro--rojo{
+	color: red;
+}
+
+.texto__background{
+	background-color:silver;
+	text-align: center;
+	color:blue;
+}
